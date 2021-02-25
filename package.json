@@ -1,6 +1,6 @@
 {
   "name": "nevelo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Magyar határozott névelőt adok vissza egy szöveg alapján",
   "main": "index.js",
   "repository": {
