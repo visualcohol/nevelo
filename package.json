@@ -1,0 +1,28 @@
+{
+  "name": "nevelo",
+  "version": "1.0.0",
+  "description": "Magyar határozott névelőt adok vissza egy szöveg alapján",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visualcohol/nevelo.git"
+  },
+  "keywords": [
+    "névelő",
+    "határozott névelő",
+    "article",
+    "definite article",
+    "magyar",
+    "hungarian"
+  ],
+  "author": {
+    "name": "Jászai Viktor",
+    "email": "viktor@visualcohol.com",
+    "url": "https://visualcohol.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/visualcohol/nevelo/issues"
+  },
+  "homepage": "https://github.com/visualcohol/nevelo#readme"
+}
