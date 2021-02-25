@@ -2,7 +2,7 @@ let defaultOptions = {
   uppercase: false,
 };
 
-function nevelo(word, options = defaultOptions) {
+export default function nevelo(word, options = defaultOptions) {
   let vowel = ['a', 'á', 'e', 'é', 'i', 'í', 'o', 'ó', 'ö', 'ő', 'u', 'ú', 'ü', 'ű'];
   let wordFirstLetterLowercase = word.charAt(0).toLowerCase();
   let article = '';
